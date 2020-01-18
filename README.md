@@ -1,18 +1,12 @@
 # NYC-Open-Data-Map-Reduce-and-Pyspark
 ## subheading
-![SaiLikhith K](https://img.shields.io/badge/Sai%20Likhith-NYC%20Open%20Data-Green)
+![Custom Badge](https://img.shields.io/badge/Sai%20Likhith-NYC%20Open%20Data-Green)
+![Issues](https://img.shields.io/github/issues/SaiLikhith7/NYC_Open_Data-Map-Reduce-and-Pyspark)
 
-Testing
-- First time
-- Second Time
-- Third Time
- - indented
-    1. Test 
-   
-   
-[This is My Site](https://www.github.com/sailikhith7)
 
 `sailikhith` da
+
+This repository contains the Map and Reduce functionality of big data sets using PySpark.
 
 
 ```html

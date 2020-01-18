@@ -4,8 +4,6 @@
 ![Issues](https://img.shields.io/github/issues/SaiLikhith7/NYC_Open_Data-Map-Reduce-and-Pyspark)
 
 
-`sailikhith` da
-
 This repository contains the Map and Reduce functionality of big data sets using PySpark.
 
  
